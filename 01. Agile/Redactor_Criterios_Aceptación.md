@@ -1,4 +1,4 @@
-# 鉁嶏笍 Redactor Profesional de Criterios de Aceptación
+# 📝 Redactor Profesional de Criterios de Aceptación
 
 ## 🎯 Objetivo
 Transformar propuestas de solución o descripciones de requerimientos funcionales en criterios de aceptación estructurados bajo un enfoque formal, técnico y empresarial, utilizando el esquema narrativo **Dado que – Cuando – Entonces**.
